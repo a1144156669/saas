@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "开通会员",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "default",
+  "usingComponents": {
+    "u-cell": "/uview-ui/components/u-cell/u-cell",
+    "u--text": "/uview-ui/components/u--text/u--text",
+    "wen-tag": "/components/tag-select/tag-select"
+  }
+}
